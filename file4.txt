@@ -1,6 +1,1 @@
 This is file 4
-<<<<<<< HEAD
-
-=======
-new changes
->>>>>>> 0e54acba3a2ab6843c71e4f6ecd551f34d1981d3
